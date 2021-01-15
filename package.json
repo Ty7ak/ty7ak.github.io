@@ -1,0 +1,7 @@
+{
+  "name": "Snow",
+  "version": "1.0.0",
+  "dependencies": {
+    "three-gltf-loader": "^1.111.0"
+  }
+}
