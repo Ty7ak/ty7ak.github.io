@@ -88,7 +88,7 @@ function snow() {
             particle.z = Math.random() * 200 - 100;
             particle.velocity.z = 0
         }
-        particle.velocity.y -= Math.random() * 0.01;
+        particle.velocity.y -= Math.random() * 0.004;
         particle.y += particle.velocity.y;
         particle.velocity.z += Math.random() * 0.002;
         particle.z += particle.velocity.z;
